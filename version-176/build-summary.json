@@ -1,0 +1,18 @@
+{
+  "movies_parsed": 2000,
+  "html_pages": 2014,
+  "categories": {
+    "hot-selection": 200,
+    "domestic-theater": 200,
+    "suspense-thriller": 200,
+    "romance-healing": 200,
+    "action-crime": 200,
+    "comedy-variety": 200,
+    "fantasy-sci-fi": 200,
+    "animation-documentary": 200,
+    "classic-library": 200,
+    "overseas-series": 200
+  },
+  "m3u8_sources": 20,
+  "cover_rule": "Each movie references top-level 1.jpg through 150.jpg cyclically; no placeholder images generated."
+}
